@@ -1,0 +1,1 @@
+php artisan migrate --seed komutuyla veritabanı oluşturulur ve test verileri tablolara yazılır. 
